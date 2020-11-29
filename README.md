@@ -1,2 +1,2 @@
 # Kafka
-Kafka Producer and consu,er samples
+Kafka Producer and consumer samples
